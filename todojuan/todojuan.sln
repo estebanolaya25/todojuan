@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todojuan.common", "todojuan.common\todojuan.common.csproj", "{F4D87CA6-CA49-4956-851F-7F9FFF7A24E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todojuan.common", "todojuan.common\todojuan.common.csproj", "{F4D87CA6-CA49-4956-851F-7F9FFF7A24E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todojuan.Functions", "todojuan.Functions\todojuan.Functions.csproj", "{34EAC087-12BB-412A-ABDE-994B813D743D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todojuan.Functions", "todojuan.Functions\todojuan.Functions.csproj", "{34EAC087-12BB-412A-ABDE-994B813D743D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todojuan.Tests", "todojuan.Tests\todojuan.Tests.csproj", "{60D52DF0-CDC1-4F94-9C15-EAE80BC9C1B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todojuan.Tests", "todojuan.Tests\todojuan.Tests.csproj", "{60D52DF0-CDC1-4F94-9C15-EAE80BC9C1B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
